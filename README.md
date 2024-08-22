@@ -48,9 +48,9 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
-![image](https://github.com/user-attachments/assets/0e2fed5e-7b4c-42bd-b5b1-9a360ec63357)
-![image](https://github.com/user-attachments/assets/65a39e35-e188-4666-a9d3-b8d45b033c5c)
-
+![image](https://github.com/user-attachments/assets/77945fd4-8f31-40ac-85e3-2ebe459aea0e)
+![image](https://github.com/user-attachments/assets/a24d1ab9-f53f-4151-a63b-3c07215d65b3)
+![image](https://github.com/user-attachments/assets/157abc05-2d41-4e38-ae0a-b69f47269750)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
