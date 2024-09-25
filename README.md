@@ -56,9 +56,12 @@ plt.show()
 ```
 
 ## Output:
+INPUT:
 
 ![image](https://github.com/user-attachments/assets/77945fd4-8f31-40ac-85e3-2ebe459aea0e)
 ![image](https://github.com/user-attachments/assets/a24d1ab9-f53f-4151-a63b-3c07215d65b3)
+ Graph:
+ 
 ![image](https://github.com/user-attachments/assets/157abc05-2d41-4e38-ae0a-b69f47269750)
 
 ## Result:
